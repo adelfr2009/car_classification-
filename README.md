@@ -9,6 +9,6 @@ Un mini projet permet de faire la classification des voiture par marque
   **Apprentissage**: classifieur SVM avec les paramètres `C=10, gamma=0.01, kernel= 'rbf'`  
   **Base de données**: 3 classes seullement  (lamburgini, jeep, BMW) à partie de Stanford dataset https://ai.stanford.edu/~jkrause/cars/car_dataset.html
   ## Description:  
-  Accuracy: Accuracy= 70.0 % 
+  Accuracy= 70.0 % 
   
   
